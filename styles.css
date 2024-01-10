@@ -6,7 +6,7 @@ body{background-image: url(pictures/beans.jpeg);font-family: sans-serif;padding:
 .item p{display:inline-block;font-size: 18px;margin-top: 5px;margin-bottom: 5px;}
 h1,h2{font-family: Impact,serif;}
 .established{font-style: italic;}
-h1{font-size: 40px;}
+h1{font-size: 40px;margin-top: 0;}
 h2{font-size: 30px;}
 hr{height: 2px;background-color: brown;border-color: brown;}
 .bottom-line{margin-top: 25px;}
