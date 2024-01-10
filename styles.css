@@ -5,3 +5,4 @@ body{background-image: url(pictures/beans.jpeg);font-family: sans-serif;}
 .price{text-align:right;width:25%;}
 .item p{display:inline-block;}
 h1,h2{font-family: Impact,serif;}
+.established{font-style: italic;}
