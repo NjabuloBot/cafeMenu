@@ -4,3 +4,4 @@ body{background-image: url(pictures/beans.jpeg);font-family: sans-serif;}
 .dessert,.flavor{text-align: left;width:75%;}
 .price{text-align:right;width:25%;}
 .item p{display:inline-block;}
+h1,h2{font-family: Impact;}
